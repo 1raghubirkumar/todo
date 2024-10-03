@@ -1,2 +1,2 @@
 # todo
-it is a to-do project
+it is a to-do project.
